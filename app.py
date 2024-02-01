@@ -26,3 +26,5 @@ print("solat")
 """_compile python ke bytcode_
     pada terminal tulis : python -m py_compile (nama file).py
 """
+
+print("")
